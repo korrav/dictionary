@@ -1,25 +1,29 @@
-plug
-extension
-remote
-extend
-compartment
-conform
-consume
-cost
-council
-maybe
-cover
-dialect
-weekday
-highway
-stub
-corner
-cross
-get on a bus
-entrance
-prevail
-schedule
-sign
-police
-Be under age
-
+any
+mean
+ask
+answer
+Be in love
+reasonably
+whichever
+Free of charge
+puppet
+mark
+intermediate
+intrude
+law
+those
+proceed
+least
+took
+knock
+recall
+clear
+lecture
+wonder
+leaf
+puppy
+loose
+luck
+management
+age
+Be on the road

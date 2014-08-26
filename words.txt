@@ -611,7 +611,7 @@
 612)adjustment     
 613)warning
 614)amperage                             
-615)request                                s
+615)request                                
 616)amplifier                                      
 617)ask
 618)band
@@ -646,7 +646,7 @@
 647)attitude
 648)gain
 649)food
-650)gate                   
+650)gate                                            
 651)meat                             
 652)ground                                   
 653)fish
@@ -687,7 +687,7 @@
 688)offset
 689)check
 690)output                        
-691)hungry  
+691)hungry                               
 692)charge
 693)thirsty
 694)check
@@ -734,7 +734,7 @@
 735)glove
 736)admittance
 737)glasses                          
-738)aerial
+738)aerial                              
 739)watch
 740)sink current 
 741)handkerchief                  
@@ -806,7 +806,7 @@
 807)antiphase
 808)aspect ratio
 809)astable multivibrator
-810)asynchronous                         
+810)asynchronous                                           
 811)attenuation                                   
 812)attenuator
 813)toothpaste
@@ -877,7 +877,7 @@
 878)stew
 879)tree
 880)grass
-881)vegetable                                    
+881)vegetable                                                                     
 882)berry 
 883)nut 
 884)flower 
@@ -941,7 +941,7 @@
 942)way                  
 943)people                  
 944)some
-945)more
+945)more                             
 946)make                 
 947)like 
 948)look                    
@@ -1002,7 +1002,7 @@
 1003)old 
 1004)much                                 
 1005)any 
-1006)same                   
+1006)same                                             
 1007)mean                                         
 1008)where   
 1009)too
@@ -1023,7 +1023,7 @@
 1024)does
 1025)must
 1026)also
-1027)well                                         
+1027)well                                          
 1028)three                              
 1029)hand               
 1030)home                     
@@ -1032,7 +1032,7 @@
 1033)picture
 1034)kind                              
 1035)different
-1036)such                                              
+1036)such                                               
 1037)ask
 1038)move                   
 1039)need                                          
@@ -1053,7 +1053,7 @@
 1054)change                      
 1055)play                                       
 1056)spell                      
-1057)answer                                   
+1057)answer                                                      
 1058)found
 1059)study
 1060)learn 
@@ -1069,7 +1069,7 @@
 1070)early
 1071)late                                                                      
 1072)possible           
-1073)told
+1073)told                     
 1074)knew                                                           
 1075)let
 1076)open                         
@@ -1105,7 +1105,7 @@
 1106)low          
 1107)that                                  
 1108)last                  
-1109)own
+1109)own                       
 1110)act               
 1111)cross                                   
 1112)doctrine
@@ -1188,7 +1188,7 @@
 1189)case
 1190)or
 1191)dough                                                       
-1192)dove
+1192)dove                       
 1193)downhill
 1194)downstairs
 1195)downstream
@@ -1262,7 +1262,7 @@
 1263)equal
 1264)escape
 1265)especial
-1266)essay                       
+1266)essay                                          
 1267)eternal
 1268)evaluate
 1269)eve
@@ -1328,7 +1328,7 @@
 1329)fit                  
 1330)flash                         
 1331)yet          
-1332)room                    
+1332)room                                                     
 1333)float                       
 1334)flour
 1335)flow
@@ -1352,7 +1352,7 @@
 1353)friend
 1354)front
 1355)fulfil
-1356)fur               
+1356)fur                                                 
 1357)fusion
 1358)gallery
 1359)garage
@@ -1417,7 +1417,7 @@
 1418)human
 1419)humorist                           
 1420)hypnosis
-1421)white                                          
+1421)white                                                                     
 1422)around                         
 1423)habit             
 1424)ham                              
@@ -1457,7 +1457,7 @@
 1458)huge 
 1459)hunt 
 1460)hurry                  
-1461)pass                                 
+1461)pass                                                            
 1462)under                    
 1463)icon                        
 1464)idea 
@@ -1512,7 +1512,7 @@
 1513)immerse                                
 1514)impatient
 1515)impose                            
-1516)inability                
+1516)inability                                  
 1517)inattentive                   
 1518)inborn
 1519)income
@@ -1556,7 +1556,7 @@
 1557)inside                         
 1558)insist 
 1559)got                       
-1560)whether                                 
+1560)whether                                                           
 1561)mark                                               
 1562)walk
 1563)rather
@@ -1577,11 +1577,11 @@
 1578)interrogate
 1579)intolerant
 1580)intrude           
-1581)law                                
+1581)law                                                     
 1582)group
 1583)rain
 1584)those                                       
-1585)invent
+1585)invent                              
 1586)investigate
 1587)invisible
 1588)involve
@@ -1663,7 +1663,7 @@
 1664)port           
 1665)kneel
 1666)knock
-1667)knowledge                
+1667)knowledge                                         
 1668)laboratory
 1669)laconic
 1670)leader               
@@ -1715,7 +1715,7 @@
 1716)liquor
 1717)listen
 1718)lizard
-1719)load
+1719)load                            
 1720)loaf                              
 1721)table
 1722)however
@@ -1770,7 +1770,7 @@
 1771)object                          
 1772)value                                                                 
 1773)wood                                                    
-1774)in one word
+1774)in one word                                      s
 1775)mental
 1776)metal
 1777)metalic
@@ -2652,7 +2652,7 @@
 2653)Joint-stock company
 2654)inclusion
 2655)program
-2656)equipment
+2656)equipment                         
 2657)powerful                               
 2658)progressive                         
 2659)God bless you
@@ -2673,7 +2673,7 @@
 2674)All along
 2675)that is
 2676)provider
-2677)public
+2677)public                                 
 2678)What's the matter?                   
 2679)alignment                             
 2680)publication
@@ -2694,7 +2694,7 @@
 2695)compatibility
 2696)solver
 2697)remote
-2698)sheet
+2698)sheet                                 
 2699)obsolete
 2700)undo
 2701)retrieve              
@@ -2715,7 +2715,7 @@
 2716)pancake
 2717)passion
 2718)Free of charge
-2719)vehicle
+2719)vehicle                              s
 2720)passive
 2721)pastry
 2722)Good morning
@@ -2730,7 +2730,7 @@
 2731)robust
 2732)pillow
 2733)pipe
-2734)Get into office                  s
+2734)Get into office                  
 2735)gateway
 2736)plait
 2737)Give reasons for
@@ -2751,10 +2751,32 @@
 2752)prehistoric
 2753)Be of age
 2754)improve
-2755)pressure
+2755)pressure                          
 2756)maybe
 2757)stub
 2758)prevail
 2759)Be under age
 2760)eliminate
 2761)unfortunately
+2762)pride
+2763)Go to bed
+2764)familiar
+2765)reply
+2766)primer
+2767)Half as much
+2768)highlight
+2769)useful
+2770)probability
+2771)Be in love
+2772)prodigy
+2773)Fall in love
+2774)overhead
+2775)profit
+2776)prohibit
+2777)Fall out of love
+2778)trap
+2779)puppet
+2780)proceed
+2781)recall
+2782)puppy
+2783)Be on the road
