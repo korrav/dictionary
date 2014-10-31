@@ -1831,7 +1831,7 @@
 1832)cold                     
 1833)fine
 1834)every other day
-1835)marine    						                                 
+1835)marine    											                                 
 1836)marriage
 1837)marvel                 
 1838)mat
@@ -1841,7 +1841,7 @@
 1842)became
 1843)the other day                       
 1844)fall                    
-1845)mean                                      
+1845)mean  						                                    
 1846)measure
 1847)meditate                        
 1848)melt
@@ -1874,7 +1874,7 @@
 1875)moan					
 1876)mock
 1877)modest                                      
-1878)monitor
+1878)monitor							
 1879)monster
 1880)moot
 1881)direct                             
@@ -1928,7 +1928,7 @@
 1929)nostalgia
 1930)novel                                                  
 1931)pay                            
-1932)produce
+1932)produce					
 1933)from time to time                              
 1934)teach
 1935)quite
@@ -1957,7 +1957,7 @@
 1958)nip               
 1959)nimble
 1960)noble
-1961)discuss
+1961)discuss							
 1962)lead
 1963)by the way    					                            
 1964)therefore
@@ -2002,7 +2002,7 @@
 2003)nut						
 2004)nuzzle                     
 2005)entire                                        
-2006)as well as           
+2006)as well as     					     
 2007)private                             
 2008)appear
 2009)apply
@@ -2036,7 +2036,7 @@
 2037)market
 2038)occasion                       
 2039)society
-2040)species    	                 
+2040)species   						                 
 2041)speech
 2042)unit
 2043)wall
@@ -2058,7 +2058,7 @@
 2059)so long
 2060)story
 2061)myself
-2062)front
+2062)front						
 2063)narrow                                  
 2064)sudden       
 2065)third
@@ -2088,7 +2088,7 @@
 2089)south
 2090)trouble
 2091)moral                            
-2092)approach
+2092)approach							
 2093)distinct                 
 2094)total                                          
 2095)wide
@@ -2142,7 +2142,7 @@
 2143)patient  					
 2144)strange                 
 2145)worth
-2146)wrong                                 
+2146)wrong    						                            
 2147)accept
 2148)dance						
 2149)suppose                                                                             
@@ -2191,7 +2191,7 @@
 2192)present
 2193)present
 2194)introduce            
-2195)combine                  
+2195)combine    						             
 2196)describe				
 2197)share
 2198)touch
@@ -2232,7 +2232,7 @@
 2233)pain
 2234)stage                                        
 2235)themselves                                              
-2236)grey
+2236)grey							
 2237)rich
 2238)born
 2239)ring                    
@@ -2287,7 +2287,7 @@
 2288)ride
 2289)select                    
 2290)aim
-2291)shoot
+2291)shoot							
 2292)shot
 2293)spend
 2294)in the end           
@@ -2336,7 +2336,7 @@
 2337)hesitate                              
 2338)imagine                                  
 2339)led                                                    
-2340)vary                 
+2340)vary     						          
 2341)supply                 
 2342)ability                                      
 2343)analysis
@@ -2385,7 +2385,7 @@
 2386)by hand                       
 2387)assert                               
 2388)assume
-2389)on the one hand                                   
+2389)on the one hand   							                              
 2390)odd                              
 2391)deserve
 2392)slip                          
@@ -2437,7 +2437,7 @@
 2438)angle                                                
 2439)obey
 2440)Change one's mind
-2441)bracket
+2441)bracket								s
 2442)objection    						                 
 2443)obligatory              
 2444)To the letter
@@ -2690,7 +2690,7 @@
 2691)pace
 2692)On the minute                      
 2693)pail
-2694)extension							s
+2694)extension							
 2695)compatibility
 2696)solver
 2697)remote					
@@ -2726,7 +2726,7 @@
 2727)offload
 2728)pet					
 2729)pick                     
-2730)Take office
+2730)Take office					
 2731)robust				
 2732)pillow
 2733)pipe					
@@ -2747,7 +2747,7 @@
 2748)predominate
 2749)As usual
 2750)plug in
-2751)preface
+2751)preface					
 2752)prehistoric									
 2753)Be of age
 2754)improve
@@ -2773,7 +2773,7 @@
 2774)overhead
 2775)profit
 2776)prohibit
-2777)Fall out of love
+2777)Fall out of love						
 2778)trap
 2779)puppet							
 2780)proceed							
@@ -2791,7 +2791,7 @@
 2792)pursue
 2793)Be cold
 2794)submission					
-2795)puzzle
+2795)puzzle						
 2796)qualification
 2797)Feel cold
 2798)complication
@@ -2803,7 +2803,7 @@
 2804)generic
 2805)override
 2806)quota							
-2807)Catch cold					
+2807)Catch cold											
 2808)substitute
 2809)stand-alone			
 2810)quack
@@ -2831,7 +2831,7 @@
 2832)reuse
 2833)queen						
 2834)Take notes of
-2835)exploit
+2835)exploit					
 2836)comprehensive					
 2837)queer
 2838)By train
@@ -2841,7 +2841,7 @@
 2842)apart							
 2843)questionary
 2844)lose the train
-2845)permit							s
+2845)permit							
 2846)deploy
 2847)queue
 2848)Make the train					
@@ -2862,7 +2862,7 @@
 2863)quip							
 2864)Decide against of
 2865)handheld
-2866)securely
+2866)securely							
 2867)experimentation
 2868)version
 2869)quit							
@@ -2883,7 +2883,7 @@
 2884)In my view
 2885)helpful
 2886)response
-2887)racketeer
+2887)racketeer							
 2888)With the view of
 2889)superior
 2890)infer					
@@ -2904,7 +2904,7 @@
 2905)asset
 2906)radio-location
 2907)At the moment
-2908)throughput
+2908)throughput							
 2909)density
 2910)radical
 2911)It will be all plain sailing
@@ -2925,7 +2925,7 @@
 2926)ration
 2927)trade education
 2928)defer
-2929)enclose
+2929)enclose						
 2930)rational
 2931)To a hair
 2932)extra
@@ -2946,7 +2946,26 @@
 2947)explanation
 2948)realistic
 2949)trace
-2950)wildcard
+2950)wildcard							s
 2951)reality
 2952)conjunction
 2953)snippet
+2954)realization
+2955)Let alone
+2956)indentation
+2957)jiffy
+2958)yield
+2959)refine
+2960)recommendation
+2961)Leave alone
+2962)clause
+2963)nine
+2964)reconstruction
+2965)Many happy returns!
+2966)regardless
+2967)discard
+2968)recreation
+2969)In the afternoon
+2970)tally
+2971)ascend
+2972)rector
