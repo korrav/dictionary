@@ -23,7 +23,7 @@
 23)adaptation
 24)adequate
 25)administration
-26)admiral    						                    
+26)admiral    											                    
 27)advocate
 28)aeroplane
 29)agency
@@ -73,7 +73,7 @@
 73)advance
 74)advise 
 75)affect                                 
-76)afford     				                      
+76)afford   						  				                      
 77)against
 78)agree
 79)air
@@ -119,7 +119,7 @@
 119)avoid
 120)awake
 121)award                     
-122)aware
+122)aware						
 123)conscious
 124)awkward                       
 125)awl
@@ -167,7 +167,7 @@
 168)beetle
 169)to beg
 170) to believe
-171) bell                      
+171) bell       				              
 172)beloved
 173)belt
 174)bench
@@ -207,7 +207,7 @@
 208)butter
 209)calendar					
 210)camera
-211)captain                      
+211)captain      					               
 212)centre
 213)ceremony
 214)champion
@@ -253,7 +253,7 @@
 254)cage
 255)calculate
 256)camel							
-257)camp
+257)camp						
 258)cancer
 259)capital
 260)car
@@ -283,7 +283,7 @@
 284)clay      						               
 285)clever 
 286)climb 
-287)clip       
+287)clip    					  
 288)cloak                    
 289)clothing
 290)coach
@@ -315,7 +315,7 @@
 316)cord 
 317)corn 
 318)cost 						
-319)cosy 
+319)cosy 						
 320)cough 
 321)council                                                     
 322)count                                                                                   
@@ -366,7 +366,7 @@
 367)doctor
 368)time
 369)hour
-370)minute					
+370)minute						s				
 371)morning                    
 372)day
 373)evening                                                            
@@ -1892,7 +1892,7 @@
 1893)since then					
 1894)serve                                      
 1895)muddy
-1896)narcotic						s
+1896)narcotic						
 1897)nation
 1898)natural              
 1899)naturalist
@@ -1929,7 +1929,7 @@
 1930)novel                                                  
 1931)pay                            
 1932)produce					
-1933)from time to time                              
+1933)from time to time   						                           
 1934)teach
 1935)quite
 1936)beauty
@@ -1942,7 +1942,7 @@
 1943)it's time              
 1944)view
 1945)further
-1946)future                      
+1946)future      								               
 1947)negotiate                     
 1948)neighbour                                     
 1949)nest
@@ -1975,11 +1975,11 @@
 1976)street
 1977)subject                    
 1978)weight                
-1979)west
+1979)west							
 1980)wind                               
 1981)dark                                         
 1982)living
-1983)strong                  
+1983)strong   							              
 1984)believe                                                          
 1985)from day to day
 1986)sit                   
@@ -2013,7 +2013,7 @@
 2014)outside                    
 2015)ten                        
 2016)except
-2017)afternoon     					                     
+2017)afternoon     									                     
 2018)arm                    
 2019)bridge
 2020)take part in               
@@ -2027,7 +2027,7 @@
 2028)appeal        
 2029)contain
 2030)award
-2031)expect             
+2031)expect    							         
 2032)include
 2033)besides
 2034)beyond   								                     
@@ -2045,7 +2045,7 @@
 2046)laugh                
 2047)require
 2048)as long as                             
-2049)upon                      
+2049)upon      						               
 2050)amount						
 2051)circle
 2052)deal
@@ -2072,7 +2072,7 @@
 2073)single
 2074)determine
 2075)meet                                      
-2076)paid
+2076)paid						
 2077)posses
 2078)send    
 2079)settle
@@ -2088,7 +2088,7 @@
 2089)south
 2090)trouble
 2091)moral                            
-2092)approach							
+2092)approach											
 2093)distinct                 
 2094)total                                          
 2095)wide
@@ -2106,7 +2106,7 @@
 2107)space                                        
 2108)term
 2109)union            
-2110)wheel                     
+2110)wheel       						             
 2111)difficult                   
 2112)particular
 2113)drive     						                      
@@ -2125,7 +2125,7 @@
 2126)neither                       
 2127)remain                           
 2128)rise                              
-2129)visit                                          
+2129)visit        					                                  
 2130)launch                                                     
 2131)according                         
 2132)below
@@ -2139,7 +2139,7 @@
 2140)How are things?
 2141)himself
 2142)latter               
-2143)patient  					
+2143)patient  											
 2144)strange                 
 2145)worth
 2146)wrong    						                            
@@ -2174,8 +2174,8 @@
 2175)active
 2176)immediate
 2177)pretty                   
-2178)quiet                    
-2179)approve   							                                                
+2178)quiet   					                 
+2179)approve  		 							                                                
 2180)give up    				
 2181)express                   
 2182)provide
@@ -2205,7 +2205,7 @@
 2206)kitchen         
 2207)regard                                        
 2208)sight
-2209)surface
+2209)surface										
 2210)former
 2211)drop						
 2212)exist                                      
@@ -2237,7 +2237,7 @@
 2238)born
 2239)ring                    
 2240)as well
-2241)all the same                               
+2241)all the same  						                             
 2242)shine                              
 2243)twist
 2244)wave
@@ -2246,7 +2246,7 @@
 2247)june
 2248)resident
 2249)surprise
-2250)aid
+2250)aid							
 2251)think over
 2252)bright                  
 2253)clean
@@ -2282,8 +2282,8 @@
 2283)help yourself                 
 2284)profession
 2285)attend
-2286)catch                                
-2287)kill             
+2286)catch  						                             
+2287)kill    						         
 2288)ride
 2289)select                    
 2290)aim
@@ -2330,14 +2330,14 @@
 2331)safe                      
 2332)scarce                                      
 2333)admire
-2334)arrange                  
+2334)arrange   						               
 2335)cook
 2336)discover 
 2337)hesitate                              
 2338)imagine                                  
 2339)led                                                    
 2340)vary     						          
-2341)supply                 
+2341)supply     					           
 2342)ability                                      
 2343)analysis
 2344)lady
@@ -2370,7 +2370,7 @@
 2371)stir                           
 2372)wipe
 2373)aside                         
-2374)twenty
+2374)twenty							
 2375)associate                         
 2376)baby
 2377)dream                                  
@@ -2379,7 +2379,7 @@
 2380)occur                                     
 2381)sail
 2382)bitter           
-2383)prompt                            
+2383)prompt    									                        
 2384)regular                        
 2385)significant                      
 2386)by hand                       
@@ -2422,14 +2422,14 @@
 2423)arbitrary
 2424)orchestra
 2425)Here's to you
-2426)assignment     								                                
+2426)assignment     											                                
 2427)organism
 2428)Walk on air
 2429)bunch        
 2430)organization                                      
 2431)ozone                                       
 2432)On the house
-2433)oak
+2433)oak						
 2434)Like a house on fire
 2435)encode
 2436)obedient       							                 
@@ -2442,14 +2442,14 @@
 2443)obligatory              
 2444)To the letter
 2445)delimited
-2446)obstacle
+2446)obstacle				
 2447)odour   									             
 2448)Point of view							
 2449)comma
 2450)offence                                     
 2451)offensive
 2452)In point of                     
-2453)attach
+2453)attach			
 2454)offend
 2455)omission
 2456)tonight                          
@@ -2460,13 +2460,13 @@
 2461)option
 2462)In bad order
 2463)afterward                                                  
-2464)oral					
-2465)orchard
+2464)oral									
+2465)orchard					
 2466)Keep order
 2467)aka
 2468)ordinary    				             
 2469)orphan
-2470)Face to face
+2470)Face to face							
 2471)primarily                         
 2472)outbreak
 2473)outdoor                                                        
@@ -2488,7 +2488,7 @@
 2489)oversea                                    
 2490)Near by
 2491)essentially                      
-2492)owner
+2492)owner			
 2493)owl                                                      
 2494)Never mind   					                     
 2495)decision
@@ -2510,9 +2510,9 @@
 2511)stuff
 2512)parody
 2513)parole						
-2514)Against the sun               
+2514)Against the sun    						           
 2515)margin                             
-2516)partner
+2516)partner								
 2517)party
 2518)With the sun
 2519)buck                    
@@ -2521,7 +2521,7 @@
 2522)At sea                            
 2523)boost
 2524)pastor
-2525)patron
+2525)patron					
 2526)Take the sea                                     
 2527)pavilion
 2528)Last but one
@@ -2564,11 +2564,11 @@
 2565)heatsink
 2566)plus
 2567)poem                                                  
-2568)wearable                     
+2568)wearable    			                 
 2569)regards
 2570)invoke 						                      
-2571)suitable                         
-2572)deprecated
+2571)suitable     					                   
+2572)deprecated					
 2573)vision       				                   
 2574)ramp                              
 2575)expand
@@ -2576,21 +2576,21 @@
 2577)challenge                                  
 2578)check out                    
 2579)span
-2580)appropriate
+2580)appropriate							
 2581)excellent
 2582)suite
 2583)someone                      
 2584)bundle														
 2585)parity
 2586)steady
-2587)portability
+2587)portability					
 2588)enhance
 2589)resolver                        
 2590)reliability
 2591)achieve
 2592)vice                            
 2593)fetch
-2594)let's
+2594)let's				
 2595)agile                            
 2596)connectivity						
 2597)sports						
@@ -2601,7 +2601,7 @@
 2602)poet
 2603)True copy                     
 2604)quote                          
-2605)polar                                      
+2605)polar         					                             
 2606)policy
 2607)Step by step
 2608)build up			
@@ -2620,7 +2620,7 @@
 2621)On the whole
 2622)consider
 2623)presentation
-2624)president                  
+2624)president        						          
 2625)Do one's best                      
 2626)for now
 2627)price-list
@@ -2645,7 +2645,7 @@
 2646)shortcut                           
 2647)proclamation
 2648)professional
-2649)To begin with
+2649)To begin with					
 2650)solve
 2651)professor                           
 2652)prognosis
@@ -2654,7 +2654,7 @@
 2655)program
 2656)equipment                         
 2657)powerful                               
-2658)progressive                         
+2658)progressive      					                   
 2659)God bless you												
 2660)custom
 2661)favorite
@@ -2662,7 +2662,7 @@
 2663)In all senses
 2664)proportion
 2665)week-end
-2666)reduce                                   
+2666)reduce   								                               
 2667)prose
 2668)incorporate
 2669)environment
@@ -2690,8 +2690,8 @@
 2691)pace
 2692)On the minute                      
 2693)pail
-2694)extension							
-2695)compatibility
+2694)extension														
+2695)compatibility								
 2696)solver
 2697)remote					
 2698)sheet                                 
@@ -2700,7 +2700,7 @@
 2701)retrieve      		       
 2702)extend
 2703)reasonably					
-2704)invocation                            
+2704)invocation        				                   
 2705)whichever
 2706)bypass
 2707)affordable
@@ -2712,7 +2712,7 @@
 2713)palm                                  
 2714)Clear one's throat
 2715)carrier
-2716)pancake
+2716)pancake						
 2717)passion							
 2718)Free of charge
 2719)vehicle                              
@@ -2732,10 +2732,10 @@
 2733)pipe					
 2734)Get into office                  
 2735)gateway
-2736)plait					
+2736)plait											
 2737)Give reasons for					
 2738)expansion
-2739)plank
+2739)plank							
 2740)plinth    							                         
 2741)Table of contents
 2742)simplified
@@ -2754,7 +2754,7 @@
 2755)pressure                          
 2756)maybe
 2757)stub						
-2758)prevail						
+2758)prevail											
 2759)Be under age
 2760)eliminate						
 2761)unfortunately               
@@ -2766,17 +2766,17 @@
 2767)Half as much                            
 2768)highlight						
 2769)useful
-2770)probability
+2770)probability					
 2771)Be in love
-2772)prodigy
+2772)prodigy				
 2773)Fall in love				
 2774)overhead
 2775)profit
 2776)prohibit
-2777)Fall out of love						
+2777)Fall out of love												
 2778)trap
 2779)puppet							
-2780)proceed							
+2780)proceed												
 2781)recall
 2782)puppy                                       
 2783)Be on the road
@@ -2791,7 +2791,7 @@
 2792)pursue
 2793)Be cold
 2794)submission					
-2795)puzzle						
+2795)puzzle											
 2796)qualification
 2797)Feel cold
 2798)complication
@@ -2802,13 +2802,13 @@
 2803)Cold arms
 2804)generic
 2805)override
-2806)quota							
+2806)quota													
 2807)Catch cold											
 2808)substitute
 2809)stand-alone			
 2810)quack
 2811)replace
-2812)introspection					
+2812)introspection									
 2813)quag
 2814)Take cold
 2815)isn't					
@@ -2821,7 +2821,7 @@
 2822)Do smth like a bird
 2823)quantity
 2824)Get together
-2825)actor
+2825)actor					
 2826)quarantine
 2827)alive							
 2828)improvement					
@@ -2831,7 +2831,7 @@
 2832)reuse
 2833)queen						
 2834)Take notes of
-2835)exploit					
+2835)exploit											
 2836)comprehensive					
 2837)queer
 2838)By train
@@ -2844,7 +2844,7 @@
 2845)permit							
 2846)deploy
 2847)queue
-2848)Make the train					
+2848)Make the train										
 2849)reminder
 2850)facility
 2851)quibble
@@ -2858,7 +2858,7 @@
 2859)quinsy
 2860)Ready at hand					
 2861)eventually
-2862)workaround
+2862)workaround					
 2863)quip											
 2864)Decide against of
 2865)handheld
@@ -2868,9 +2868,9 @@
 2869)quit												
 2870)Decide in favour of
 2871)quits
-2872)Play the game
+2872)Play the game				
 2873)step up					
-2874)volume
+2874)volume						
 2875)quiz								
 2876)As a rule
 2877)tag					
@@ -2883,7 +2883,7 @@
 2884)In my view
 2885)helpful
 2886)response
-2887)racketeer							
+2887)racketeer													
 2888)With the view of
 2889)superior
 2890)infer					
@@ -2893,7 +2893,7 @@
 2894)performance				
 2895)radiation
 2896)Be in the wrong box							
-2897)grade					
+2897)grade									
 2898)reference					
 2899)radio
 2900)Hope for						
@@ -2915,34 +2915,34 @@
 2916)separate
 2917)normally							
 2918)rally
-2919)Compulsory education				
+2919)Compulsory education									
 2920)scratch
 2921)anyway
 2922)rating
 2923)Free education											
-2924)there is
+2924)there is					
 2925)executable
 2926)ration
-2927)trade education
+2927)trade education						
 2928)defer
 2929)enclose											
 2930)rational
 2931)To a hair
 2932)extra
 2933)unwind
-2934)rationalization							s
+2934)rationalization							
 2935)Keep your hair on!
 2936)abundance					
-2937)expose
+2937)expose						
 2938)instance
 2939)notation
 2940)reaction						
 2941)Lose heart
-2942)extract
+2942)extract							
 2943)resume
 2944)reactive												
 2945)Take heart
-2946)underway
+2946)underway				
 2947)explanation
 2948)realistic
 2949)trace
@@ -2951,87 +2951,161 @@
 2952)conjunction
 2953)snippet
 2954)realization
-2955)Let alone
+2955)Let alone							
 2956)indentation
-2957)jiffy					
+2957)jiffy									
 2958)yield
 2959)refine
 2960)recommendation
 2961)Leave alone					
 2962)clause
-2963)nine
+2963)nine						
 2964)reconstruction       
-2965)Many happy returns!					
+2965)Many happy returns!									
 2966)regardless
 2967)discard
 2968)recreation
-2969)In the afternoon
-2970)tally
+2969)In the afternoon					
+2970)tally					
 2971)ascend							
 2972)rector
 2973)descend
 2974)membership
-2975)numerical
-2976)dash
+2975)numerical										
+2976)dash							
 2977)preceding
 2978)relevance					
 2979)invitation
 2980)brisk pace
 2981)In many ways
-2982)dissimilar					
+2982)dissimilar								
 2983)By comparison
-2984)commonly
+2984)commonly						
 2985)numerous
 2986)glue						
 2987)mandatory
 2988)linefeed
 2989)judgment
-2990)relatively
+2990)relatively							
 2991)whereas
 2992)discourage							
 2993)transient
 2994)split
 2995)recipe
-2996)snapshot
+2996)snapshot						
 2997)feasible
-2998)for the sake of simplicity
+2998)for the sake of simplicity				
 2999)grant
 3000)encounter
 3001)gather
 3002)referee
 3003)Attract attention
 3004)make up
-3005)factor out
+3005)factor out							
 3006)reflective
 3007)Pay attention						
 3008)outgoing
 3009)spew
 3010)reform
-3011)Put one's foot down
+3011)Put one's foot down					
 3012)make sure
 3013)mainly							
 3014)adult
 3015)defense
 3016)safety
-3017)dispose
+3017)dispose						
 3018)careful
-3019)dereference
+3019)dereference				
 3020)dangerous
 3021)caution
 3022)reformation
 3023)examine
 3024)currently
 3025)refrain
-3026)Make one's mind easy
+3026)Make one's mind easy						
 3027)directly after this
 3028)alert
 3029)refrigerator
 3030)Make an effort
 3031)throw
-3032)take a look
+3032)take a look				
 3033)overflow
 3034)regent
 3035)employee
 3036)To address this
 3037)regime
-3038)Fall into a habit
+3038)Fall into a habit						
+3039)I've
+3040)arrow						
+3041)region
+3042)Break off a habit
+3043)legacy
+3044)deduce
+3045)registration
+3046)uniform
+3047)craft					
+3048)regulation
+3049)Miss an opportunity
+3050)inherit
+3051)restrict
+3052)rehabilitation
+3053)Hurt feelings					
+3054)parse
+3055)roundup
+3056)relaxation
+3057)All of a sudden
+3058)equality
+3059)radix							
+3060)remake
+3061)On a sudden
+3062)bloat
+3063)we'll
+3064)remark
+3065)To pieces
+3066)curve
+3067)axis
+3068)rent				
+3069)scroll
+3070)indication
+3071)in a way
+3072)similar
+3073)slider
+3074)repetition					
+3075)Hold in respect
+3076)this is
+3077)inclusive
+3078)for the sake
+3079)replacement
+3080)slice							
+3081)font
+3082)find out
+3083)wise
+3084)replicate
+3085)violation
+3086)row
+3087)scope
+3088)repressive
+3089)In respect of
+3090)ugly
+3091)repair
+3092)repression
+3093)Pleased to meet you
+3094)traverse
+3095)rubber
+3096)reproduction
+3097)widen
+3098)seamless
+3099)republic
+3100)Long ago
+3101)unity					s
+3102)jumpy
+3103)reputation
+3104)straight from the shoulder
+3105)spotting
+3106)deem
+3107)reservation
+3108)As far as smth is concerned
+3109)at large
+3110)To this end
+3111)reserve
+3112)Take no notice of
