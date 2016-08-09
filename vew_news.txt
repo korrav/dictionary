@@ -1,2 +1,2 @@
-News|Electronic
-buldozer
+FPGA - everything about programmable hardware
+Linuxoid - все что знаю о Linux

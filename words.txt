@@ -2801,7 +2801,7 @@
 2802)quartz						
 2803)Cold arms					
 2804)generic
-2805)override	    s	
+2805)override	    	
 2806)quota																				
 2807)Catch cold													
 2808)substitute		
@@ -2814,7 +2814,7 @@
 2815)isn't							
 2816)merge
 2817)quake
-2818)Known as						
+2818)Known as									
 2819)omit					
 2820)inhibit
 2821)quandary													
@@ -2831,7 +2831,7 @@
 2832)reuse
 2833)queen						
 2834)Take notes of
-2835)exploit											
+2835)exploit															
 2836)comprehensive					
 2837)queer
 2838)By train
@@ -2840,7 +2840,7 @@
 2841)something					
 2842)apart												
 2843)questionary
-2844)lose the train				
+2844)lose the train							
 2845)permit											
 2846)deploy					
 2847)queue				
@@ -2858,7 +2858,7 @@
 2859)quinsy
 2860)Ready at hand					
 2861)eventually				
-2862)workaround					
+2862)workaround									
 2863)quip															
 2864)Decide against of
 2865)handheld
@@ -2866,7 +2866,7 @@
 2867)experimentation				
 2868)version
 2869)quit												
-2870)Decide in favour of
+2870)Decide in favour of			
 2871)quits
 2872)Play the game				
 2873)step up													
@@ -2879,7 +2879,7 @@
 2880)Make rules				
 2881)stalwart							
 2882)getting
-2883)racial
+2883)racial					
 2884)In my view
 2885)helpful
 2886)response
@@ -2891,7 +2891,7 @@
 2892)Lead smb to do smth
 2893)equation
 2894)performance				
-2895)radiation							
+2895)radiation										
 2896)Be in the wrong box									
 2897)grade									
 2898)reference					
@@ -2905,7 +2905,7 @@
 2906)radio-location
 2907)At the moment					
 2908)throughput					             										
-2909)density					
+2909)density								
 2910)radical
 2911)It will be all plain sailing					
 2912)resurge										
@@ -2921,7 +2921,7 @@
 2922)rating
 2923)Free education														
 2924)there is					
-2925)executable
+2925)executable							
 2926)ration
 2927)trade education													
 2928)defer
@@ -2933,7 +2933,7 @@
 2934)rationalization							
 2935)Keep your hair on!
 2936)abundance					
-2937)expose											
+2937)expose																	
 2938)instance
 2939)notation
 2940)reaction						
@@ -2949,7 +2949,7 @@
 2950)wildcard													
 2951)reality
 2952)conjunction					
-2953)snippet									
+2953)snippet														
 2954)realization
 2955)Let alone							
 2956)indentation
@@ -2963,7 +2963,7 @@
 2964)reconstruction       
 2965)Many happy returns!									
 2966)regardless
-2967)discard
+2967)discard						
 2968)recreation
 2969)In the afternoon									
 2970)tally					
@@ -2971,18 +2971,18 @@
 2972)rector
 2973)descend
 2974)membership					
-2975)numerical														
+2975)numerical																
 2976)dash												
-2977)preceding					
+2977)preceding										
 2978)relevance					
 2979)invitation
 2980)brisk pace
 2981)In many ways		
 2982)dissimilar																	
 2983)By comparison				
-2984)commonly											
+2984)commonly																
 2985)numerous
-2986)glue						
+2986)glue								
 2987)mandatory
 2988)linefeed					
 2989)judgment
@@ -2996,19 +2996,19 @@
 2997)feasible					
 2998)for the sake of simplicity				
 2999)grant
-3000)encounter
-3001)gather
+3000)encounter						
+3001)gather				
 3002)referee
 3003)Attract attention									
 3004)make up
-3005)factor out												
+3005)factor out																
 3006)reflective					
 3007)Pay attention									
 3008)outgoing
 3009)spew
 3010)reform
 3011)Put one's foot down					
-3012)make sure
+3012)make sure						
 3013)mainly							
 3014)adult									
 3015)defense
@@ -3016,31 +3016,31 @@
 3017)dispose						
 3018)careful					
 3019)dereference				
-3020)dangerous						
+3020)dangerous									
 3021)caution
 3022)reformation
 3023)examine
 3024)currently						
 3025)refrain									
-3026)Make one's mind easy						
+3026)Make one's mind easy										
 3027)directly after this
 3028)alert							
 3029)refrigerator
 3030)Make an effort
-3031)throw
+3031)throw				
 3032)take a look				
 3033)overflow
-3034)regent					
+3034)regent										
 3035)employee								
 3036)To address this				
 3037)regime					
 3038)Fall into a habit						
 3039)I've
-3040)arrow    	            													
+3040)arrow    			            													
 3041)region
 3042)Break off a habit
 3043)legacy
-3044)deduce
+3044)deduce				
 3045)registration				
 3046)uniform
 3047)craft										
@@ -3051,12 +3051,12 @@
 3052)rehabilitation
 3053)Hurt feelings					
 3054)parse
-3055)roundup
+3055)roundup				
 3056)relaxation						
 3057)All of a sudden
 3058)equality
 3059)radix							
-3060)remake						
+3060)remake										
 3061)On a sudden					
 3062)bloat
 3063)we'll
@@ -3068,7 +3068,7 @@
 3069)scroll
 3070)indication					
 3071)in a way				
-3072)similar				
+3072)similar											
 3073)slider						
 3074)repetition					
 3075)Hold in respect			
@@ -3082,18 +3082,18 @@
 3083)wise									
 3084)replicate
 3085)violation
-3086)row					
+3086)row										
 3087)scope						
 3088)repressive
-3089)In respect of
+3089)In respect of					
 3090)ugly						
 3091)repair						
 3092)repression								
 3093)Pleased to meet you				
 3094)traverse										
-3095)rubber							
+3095)rubber										
 3096)reproduction					
-3097)widen
+3097)widen						
 3098)seamless							
 3099)republic
 3100)Long ago
@@ -3108,19 +3108,19 @@
 3109)at large					
 3110)To this end				
 3111)reserve
-3112)Take no notice of						
+3112)Take no notice of								
 3113)unfamiliar					
-3114)of course
+3114)of course						
 3115)resolution								
 3116)Take the trouble				
 3117)mesh								
 3118)shadow
 3119)resonant							
 3120)On purpose
-3121)move on											
+3121)move on																
 3122)fairly							
 3123)resource					
-3124)to the purpose					
+3124)to the purpose							
 3125)tall order						
 3126)fortunately
 3127)respectable
@@ -3138,7 +3138,7 @@
 3139)handy
 3140)customize							
 3141)revision
-3142)In particular
+3142)In particular					
 3143)represent							
 3144)properly
 3145)revolver						
@@ -3147,17 +3147,17 @@
 3148)prone									
 3149)roller
 3150)In addition to								
-3151)meet up				
+3151)meet up								
 3152)restful
 3153)imply					
-3154)roman
+3154)roman				
 3155)By chance
 3156)unreliable
 3157)ownership					
 3158)romantic				
 3159)On the chance									
-3160)spectrum					
-3161)crafting				
+3160)spectrum									
+3161)crafting							
 3162)route					
 3163)Take one's chance
 3164)fake							
@@ -3168,7 +3168,7 @@
 3169)previous								
 3170)rabid
 3171)start off										
-3172)slightly
+3172)slightly					
 3173)radiance
 3174)be out character				
 3175)nicely										
@@ -3185,25 +3185,25 @@
 3186)Not a bit				
 3187)playback					
 3188)derive
-3189)rake					
+3189)rake									
 3190)In the middle of					
 3191)somehow
 3192)probe						
-3193)rank					
+3193)rank								
 3194)For all one is worth			
 3195)stats				
 3196)sketch
 3197)ransom					
 3198)Take into account				
 3199)dashboard						
-3200)severity
+3200)severity					
 3201)rap
 3202)Make one's choice
 3203)skill						
-3204)redundant
+3204)redundant				
 3205)rapt									
 3206)Put in practice					
-3207)right away						
+3207)right away										
 3208)valuable					
 3209)rasp				
 3210)Be out of practice				
@@ -3214,14 +3214,14 @@
 3215)label								
 3216)for how long
 3217)rattle
-3218)Marry!
-3219)straightforward
+3218)Marry!					
+3219)straightforward				
 3220)sale						
 3221)ravish
 3222)Shake hands				
 3223)rely heavily			
 3224)preview									
-3225)raw
+3225)raw				
 3226)By itself
 3227)acquisition			
 3228)tricky						
@@ -3232,17 +3232,17 @@
 3233)sole
 3234)razor
 3235)chunk					
-3236)heap
+3236)heap					
 3237)rebuff							
 3238)in itself								
 3239)closely
-3240)provision
+3240)provision						
 3241)recede				
 3242)of itself					
 3243)prefer					
 3244)one by one									
 3245)receiver     			                             
-3246)Pretty much					
+3246)Pretty much										
 3247)append
 3248)it is
 3249)recite				
@@ -3252,11 +3252,11 @@
 3253)reckless										
 3254)Raise a claim			
 3255)crash
-3256)bootstrap						
+3256)bootstrap															
 3257)reconciliation
 3258)On condition				
 3259)spawn
-3260)denote
+3260)denote						
 3261)recover				
 3262)under such condition				
 3263)buddy
@@ -3266,7 +3266,7 @@
 3267)redden						
 3268)For lack of
 3269)truncate
-3270)emphasize
+3270)emphasize							
 3271)reel				
 3272)in truth
 3273)continuation
@@ -3274,17 +3274,17 @@
 3275)refer
 3276)Be in the same boat		
 3277)trim					
-3278)outline							
-3279)rehearse						
+3278)outline											
+3279)rehearse											
 3280)Address the chair				
 3281)reduction
 3282)figure out				
 3283)reign
 3284)Take the chair
 3285)bulk
-3286)persist				
+3286)persist											
 3287)reject
-3288)up to date							
+3288)up to date											
 3289)forwarding
 3290)screen					
 3291)rejection
@@ -3307,8 +3307,8 @@
 3308)Keep one's temper
 3309)broken
 3310)intersection			
-3311)remove
-3312)Lose one's temper
+3311)remove						
+3312)Lose one's temper				
 3313)distribution				
 3314)nicer				
 3315)remuneration		
@@ -3318,8 +3318,8 @@
 3319)repeat					
 3320)In due time				
 3321)identity					
-3322)implicitly						
-3323)repel
+3322)implicitly									
+3323)repel						
 3324)Under the circumstances						
 3325)dummy
 3326)rare
@@ -3329,7 +3329,7 @@
 3330)Be in pain
 3331)getting started				
 3332)hopeful
-3333)resemblance			
+3333)resemblance								
 3334)A pain in the neck
 3335)occurrence
 3336)iterate
@@ -3337,9 +3337,9 @@
 3338)persistent					
 3339)shift
 3340)dimension
-3341)unable
+3341)unable					
 3342)contiguous					
-3343)hope				
+3343)hope									
 3344)rather than
 3345)backward							
 3346)preference					
@@ -3347,7 +3347,7 @@
 3348)convention						
 3349)burst
 3350)layout							
-3351)make sense				
+3351)make sense									
 3352)somewhat
 3353)sufficient				
 3354)await					
@@ -3363,7 +3363,7 @@
 3364)manipulate
 3365)ray						
 3366)native
-3367)by now					   					
+3367)by now										   					
 3368)surge
 3369)followed by				
 3370)That way						
@@ -3374,37 +3374,37 @@
 3375)sample
 3376)Right now				
 3377)so far
-3378)polish
+3378)polish			
 3379)push
 3380)that's why					
 3381)outstanding				
 3382)semicolon
 3383)venture				
-3384)sharing				
-3385)tend to
+3384)sharing								
+3385)tend to			
 3386)sampling					
 3387)inject
 3388)this way					
 3389)subsequent							
 3390)transducer				
 3391)propagate
-3392)clash					
-3393)failure			
+3392)clash									
+3393)failure					
 3394)toggle			
 3395)bitwise
 3396)registry
 3397)notify
 3398)revert									
-3399)tutorial
+3399)tutorial					
 3400)entirely									
 3401)pick up
 3402)in turn							
 3403)enqueue
 3404)overlap
-3405)separation				
+3405)separation								
 3406)anymore
 3407)once again									
-3408)parenthesis
+3408)parenthesis			
 3409)decouple
 3410)mutual							
 3411)flow chart
@@ -3412,7 +3412,7 @@
 3413)some more
 3414)juxtaposition
 3415)deviation				
-3416)placeholder			
+3416)placeholder						
 3417)unused
 3418)notably
 3419)there's				
@@ -3421,7 +3421,7 @@
 3422)at once				
 3423)newbie			
 3424)right before				
-3425)overload				
+3425)overload										
 3426)suppress
 3427)training										
 3428)surely			
@@ -3429,7 +3429,7 @@
 3430)prior
 3431)wanna
 3432)spread
-3433)in ways that											
+3433)in ways that														
 3434)resign
 3435)Out of a clear sky
 3436)hierarchy					
@@ -3440,7 +3440,7 @@
 3441)nonetheless								
 3442)free-standing
 3443)just as
-3444)responsibility							
+3444)responsibility													
 3445)Before you can say knife
 3446)with regard to						
 3447)existence					
@@ -3451,17 +3451,17 @@
 3452)seek
 3453)exception				
 3454)retreat
-3455)be sick at heart					
+3455)be sick at heart								
 3456)providing				
 3457)onto
-3458)emit
+3458)emit			
 3459)explicit
 3460)break up					
 3461)tiny			
 3462)looking
 3463)deflate
-3464)revenge									
-3465)Play a good knife and fork
+3464)revenge													
+3465)Play a good knife and fork		
 3466)cut off
 3467)first choice							
 3468)workflow
@@ -3478,14 +3478,14 @@
 3479)give a knee to							
 3480)bring to his knees					
 3481)come as a surprise
-3482)diverge
-3483)impressive
+3482)diverge					
+3483)impressive			
 3484)ribbon					
 3485)in season
 3486)confirm					
 3487)indirect
 3488)dedicate
-3489)rid
+3489)rid					
 3490)Out of season
 3491)stance					
 3492)tradeoff
@@ -3497,7 +3497,7 @@
 3498)so myself			
 3499)nobody					
 3500)eventual
-3501)what the heck			
+3501)what the heck								
 3502)exclamation point
 3503)hyphen						
 3504)rile				
@@ -3508,7 +3508,7 @@
 3509)rink
 3510)good luck					
 3511)score					
-3512)enumerate
+3512)enumerate					
 3513)as seen
 3514)rinse
 3515)Try one's luck				
@@ -3518,27 +3518,27 @@
 3519)ripe
 3520)Take one's medicine											
 3521)so on
-3522)consequently
+3522)consequently				
 3523)belong								
 3524)rival
-3525)Plenty of					
+3525)Plenty of											
 3526)harm									
 3527)designate					
 3528)along the way				
-3529)roar					
+3529)roar								
 3530)Catch the train
 3531)I'd						
 3532)unified
 3533)funny
-3534)roast					
+3534)roast								
 3535)A shot in the blue
 3536)waste
-3537)sorely					
+3537)sorely								
 3538)pivot
 3539)rob			
-3540)Not a shot in the locker			
+3540)Not a shot in the locker					
 3541)counterpart				
-3542)completeness						
+3542)completeness									
 3543)superfluous				
 3544)royal								
 3545)In the mass
@@ -3546,16 +3546,16 @@
 3547)tight
 3548)more than just
 3549)rub
-3550)Go in for sports				
+3550)Go in for sports						
 3551)collaborate				
-3552)adjacent
+3552)adjacent					
 3553)lots
 3554)pleasure
 3555)undergo				
 3556)upwards
 3557)recap
 3558)favor
-3559)reside				
+3559)reside								
 3560)Thinking about				
 3561)come to mind
 3562)distinguish						
@@ -3563,7 +3563,7 @@
 3564)downside
 3565)overcome							
 3566)emplace
-3567)expression					
+3567)expression									
 3568)rug
 3569)rush				
 3570)one more					
@@ -3573,35 +3573,35 @@
 3574)leverage
 3575)lately
 3576)later on
-3577)encourage							
+3577)encourage											
 3578)I would like
 3579)That's the whole point
 3580)correspond
 3581)rectify
 3582)rectangle									
 3583)somebody
-3584)implementation
+3584)implementation				
 3585)vertex						
 3586)exercise
 3587)supervisor				
 3588)Here is
 3589)brush up
-3590)infinite								
+3590)infinite												
 3591)soak up
-3592)even more					
+3592)even more									
 3593)willing to								
 3594)sooner or later			
 3595)shore
-3596)sticky		
+3596)sticky					
 3597)turn to
 3598)salad											
 3599)saloon
 3600)As such
-3601)threshold								
+3601)threshold												
 3602)excite
 3603)salute								
 3604)tutor				
-3605)enhancement				
+3605)enhancement							
 3606)self
 3607)finalize
 3608)complement					
@@ -3609,21 +3609,21 @@
 3610)sanction
 3611)for over
 3612)keypress
-3613)sandal
+3613)sandal					
 3614)satirical
 3615)canonical
 3616)fast-paced
 3617)compliance
 3618)unclear					
 3619)scalp					
-3620)scan				
+3620)scan							
 3621)showcase
 3622)line up
-3623)title
+3623)title					
 3624)scandal							
 3625)scene
 3626)harsh
-3627)annual
+3627)annual				
 3628)partial
 3629)sceptic						
 3630)scheme
@@ -3633,16 +3633,16 @@
 3634)sculpture					
 3635)sherry				
 3636)superset				
-3637)delimiter
-3638)flip
+3637)delimiter					
+3638)flip				
 3639)shilling				
 3640)shock
 3641)adoption								
 3642)tear-down
-3643)nifty
+3643)nifty				
 3644)signal			
 3645)skeleton
-3646)assumption				
+3646)assumption								
 3647)unexpected						
 3648)such as
 3649)slang
@@ -3652,25 +3652,25 @@
 3653)latency
 3654)smoker				
 3655)taking advantage of							
-3656)unleash				
+3656)unleash						
 3657)scatter
 3658)maker				
 3659)sniper
 3660)soda									
 3661)benefit
 3662)attract
-3663)dominate
+3663)dominate					
 3664)solo
 3665)souvenir
 3666)proven
-3667)preemptive					
-3668)humidity
+3667)preemptive								
+3668)humidity				
 3669)spasm			
 3670)speculation
 3671)absence
 3672)commit					
 3673)pass away
-3674)sphere
+3674)sphere					
 3675)sponsor
 3676)reveal			
 3677)as near as					
@@ -3679,23 +3679,23 @@
 3680)sprint
 3681)tour
 3682)acceptable										
-3683)corruption
+3683)corruption					
 3684)protector
 3685)shuffle
 3686)pawn						
-3687)collection
+3687)collection				
 3688)anchor							
 3689)sprinter
 3690)stability				
 3691)keep track of								
 3692)fast forward
 3693)assemble
-3694)intercept
-3695)dispatch
+3694)intercept					
+3695)dispatch				
 3696)translate
 3697)fixture
 3698)treatment					
-3699)standard
+3699)standard					
 3700)statue
 3701)blast
 3702)rotate
@@ -3703,30 +3703,30 @@
 3704)stimulate
 3705)stimulation
 3706)boil down					
-3707)wasn't
-3708)most of				
-3709)storm
+3707)wasn't				
+3708)most of								
+3709)storm			
 3710)strategy
 3711)transform
 3712)campaign
 3713)sink					
 3714)stool
-3715)stress
+3715)stress				
 3716)junk
 3717)abyss				
 3718)cemetery
 3719)structure			
 3720)giant
 3721)struggle
-3722)peaceful					
+3722)peaceful								
 3723)incredible
 3724)structural					
 3725)student
 3726)valley
 3727)outfit
-3728)as one of
+3728)as one of				
 3729)incur								
-3730)studio
+3730)studio						
 3731)limestone
 3732)outnumber
 3733)scour
@@ -3736,7 +3736,7 @@
 3737)ink
 3738)warrior
 3739)subordination								
-3740)summit
+3740)summit				
 3741)peer
 3742)usable
 3743)superman
@@ -3744,60 +3744,60 @@
 3745)fancy
 3746)come up
 3747)versus
-3748)symphony
+3748)symphony				
 3749)sack
 3750)either of				
-3751)intentional
+3751)intentional						
 3752)sacrifice
 3753)now that
 3754)safeguard
-3755)winding					
+3755)winding								
 3756)stroke
 3757)cap
-3758)sailor						
+3758)sailor									
 3759)saint
 3760)granularity						
 3761)smooth
 3762)miter
 3763)sharp
-3764)salutation
+3764)salutation				
 3765)clarify									
 3766)sprawl
-3767)sand
+3767)sand							
 3768)conquer
 3769)tail
 3770)rationale				
 3771)sandwich
 3772)sane
 3773)pointlike
-3774)satisfy
+3774)satisfy				
 3775)instantiation				
-3776)exceptional
+3776)exceptional							
 3777)embody
 3778)penetration
 3779)satisfactory				
-3780)shelling
+3780)shelling			
 3781)clockwise				
 3782)occupy
 3783)pie
 3784)shrink
 3785)markup
 3786)plot					
-3787)phony
-3788)augment
+3787)phony				
+3788)augment			
 3789)dissipate
 3790)litter
 3791)saucy			
 3792)scare
 3793)droop
-3794)wander				
+3794)wander											
 3795)silly
 3796)outcome				
 3797)fiber
 3798)medium
 3799)forge
-3800)proprietary
-3801)advertise								
+3800)proprietary				
+3801)advertise										
 3802)shape
 3803)up to
 3804)presence
@@ -3805,58 +3805,58 @@
 3806)acknowledge			
 3807)latch
 3808)presume
-3809)scissors
+3809)scissors					
 3810)scrabble
-3811)interruption
+3811)interruption			s
 3812)comprise				
 3813)complementary			
-3814)squelch
-3815)elasticity
+3814)squelch			
+3815)elasticity				
 3816)relationship
 3817)turn around					
 3818)get ready
 3819)reinforce				
-3820)unveil
+3820)unveil			
 3821)disperse
 3822)in comparison to				
 3823)contention
-3824)scream
+3824)scream				
 3825)script
 3826)negate
 3827)percentage					
-3828)tailor
+3828)tailor			
 3829)tunable
 3830)constraint
 3831)screw
 3832)remind			
 3833)self-timed
 3834)scrub
-3835)seal
+3835)seal					
 3836)endurance
 3837)inadvertent				
 3838)designing
 3839)seaport
 3840)secure
-3841)supplement					
+3841)supplement							
 3842)sensible
-3843)with this in mind				
+3843)with this in mind						
 3844)give out
 3845)irrespective
 3846)tooltip
 3847)worst
 3848)tip			
-3849)roll over
+3849)roll over			
 3850)overwrite					
 3851)brand
 3852)pack
-3853)always-on				
+3853)always-on							
 3854)bought
 3855)thumb
 3856)seesaw				
 3857)evil
-3858)inspire						
+3858)inspire								
 3859)seize
-3860)self-centred				
+3860)self-centred					
 3861)palette
 3862)notch
 3863)negligible					
@@ -3866,13 +3866,13 @@
 3867)purchase
 3868)transconductance
 3869)following
-3870)self-conceit
+3870)self-conceit			
 3871)self-conscious
 3872)inherent noise
 3873)excessive
-3874)stray capacitance
+3874)stray capacitance		
 3875)so as to						
-3876)reactance
+3876)reactance			
 3877)self-criticism
 3878)self-defence
 3879)spin
@@ -3881,198 +3881,310 @@
 3882)self-possession
 3883)self-respect
 3884)wear					
-3885)insulation
+3885)insulation			
 3886)clearance
-3887)self-sacrifice			
-3888)self-willed			
+3887)self-sacrifice					
+3888)self-willed					
 3889)ruggedness				
 3890)mold
-3891)tape				
-3892)solid state
+3891)tape						
+3892)solid state			
 3893)brightness
 3894)swap					
 3895)slope
 3896)adversely				
-3897)spike
+3897)spike			
 3898)accomplish
-3899)self-portrait
+3899)self-portrait			
 3900)sell
 3901)carry away
 3902)bent
 3903)bring together
-3904)sold
+3904)sold				
 3905)senior
 3906)current carrying capacity				
 3907)slew rate
 3908)I am pleased to
 3909)implication			
-3910)valve
+3910)valve			
 3911)flux
 3912)suffer					
-3913)importance
+3913)importance			
 3914)conventional
 3915)proposal
 3916)greatest
 3917)skew
-3918)turn out				
+3918)turn out						
 3919)trick				
 3920)prove					
-3921)jolly
+3921)jolly			
 3922)foster					
 3923)distortion
-3924)failsafe
+3924)failsafe			
 3925)low enough to				
 3926)comply
 3927)avoidance of		
-3928)elapse
-3929)disturbance
+3928)elapse			
+3929)disturbance				
 3930)take up
 3931)survival			
 3932)breakthrough
-3933)successive
+3933)successive					
 3934)suggestion
 3935)payment
 3936)emerge				
-3937)conduct				
-3938)bandgap
+3937)conduct									
+3938)bandgap			
 3939)point out
 3940)inherently
 3941)precaution					
 3942)entail
-3943)divert					
+3943)divert									
 3944)withstand
 3945)respective
-3946)thickness
-3947)underneath
+3946)thickness					
+3947)underneath						
 3948)fill out
 3949)overstress			
 3950)housing
-3951)quiescent current
-3952)cycle-by-cycle
+3951)quiescent current				
+3952)cycle-by-cycle				
 3953)shutdown			
-3954)discontinuous
+3954)discontinuous					
 3955)comprise of
-3956)overshoot
-3957)essential
+3956)overshoot						
+3957)essential						
 3958)radiated noise				
 3959)next to
 3960)estimation
-3961)roll
-3962)spark				
+3961)roll			
+3962)spark								
 3963)stand by
 3964)greener
 3965)subjected to
-3966)rated
-3967)coating				
+3966)rated						
+3967)coating							
 3968)receptacle
 3969)conduction loss
 3970)signal integrity
-3971)tissue
+3971)tissue				
 3972)neat					
 3973)about to
-3974)silent					
-3975)gobble
+3974)silent								
+3975)gobble							
 3976)precious
-3977)backplane
+3977)backplane					
 3978)fun
 3979)sequence
-3980)serf				
-3981)pine
-3982)inventor
+3980)serf								
+3981)pine										
+3982)inventor						
 3983)entertainment
 3984)severe				
-3985)shook
+3985)shook				
 3986)mice
-3987)shield
+3987)shield						
 3988)wording
 3989)shaken				
-3990)shame
+3990)shame						
 3991)milestone
 3992)Monday
-3993)truly					
+3993)truly										
 3994)fee
 3995)indemnification
-3996)peace of mind
+3996)peace of mind			
 3997)blink
-3998)proof					
-3999)owe				
+3998)proof										
+3999)owe						
 4000)phase out
-4001)appliance
+4001)appliance					
 4002)trench
-4003)weld						s
+4003)weld						
 4004)companion
 4005)predictable
-4006)sliver
+4006)sliver							
 4007)egress
-4008)ingress
-4009)harness
+4008)ingress						
+4009)harness		
 4010)wire up
-4011)peek
-4012)meaning
-4013)adaptive
+4011)peek								
+4012)meaning						
+4013)adaptive						
 4014)temporize
 4015)preliminary to			
-4016)extent
+4016)extent							
 4017)First of all
-4018)tire
+4018)tire				
 4019)gem
 4020)pollution				
-4021)playful
+4021)playful								
 4022)wizard
 4023)middleware
-4024)timely			
+4024)timely							
 4025)warrant
 4026)executive
-4027)predominant
-4028)daunt
-4029)onwards						
+4027)predominant			
+4028)daunt					
+4029)onwards										
 4030)subdivide
 4031)coalescence
-4032)timeout
+4032)timeout				
 4033)evolve
-4034)round-robin
+4034)round-robin						
 4035)coincidental
 4036)vice-versa
-4037)ongoing
+4037)ongoing								
 4038)basis
-4039)preserve
+4039)preserve						
 4040)unread
 4041)it means that
-4042)depending on
+4042)depending on							
 4043)frozen
-4044)transaction
+4044)transaction					
 4045)assuming that
 4046)interaction
-4047)node
+4047)node												
 4048)reciprocally
 4049)undesired
 4050)occupancy
 4051)underflow					
-4052)preferable
+4052)preferable					
 4053)encase
 4054)stretch
-4055)circumvent				
+4055)circumvent								
 4056)dongle
 4057)high-end
-4058)coverage
-4059)install
-4060)denomination					
+4058)coverage				
+4059)install						
+4060)denomination										
 4061)beneath
 4062)instantiate
-4063)assign
+4063)assign				
 4064)inductance
-4065)explore
+4065)explore				s			
 4066)majority
 4067)clumsy
-4068)noticeable
+4068)noticeable								
 4069)numerically
-4070)proofing
+4070)proofing						
 4071)whereby
 4072)acquire
-4073)underscore
+4073)underscore								
 4074)snap
-4075)revenue
+4075)revenue					
 4076)wrap up
 4077)crosstalk
-4078)shark
+4078)shark									
 4079)shatter
+4080)likewise
+4081)gauge					
+4082)tilt
+4083)heading						
+4084)greedy
+4085)enclosure
+4086)chop				
+4087)bring up
+4088)intrinsic
+4089)background				
+4090)aforementioned				
+4091)neglect							
+4092)redistribution
+4093)substitution
+4094)time domain			
+4095)tower
+4096)deficiency
+4097)conductive
+4098)rail
+4099)sander							
+4100)matching
+4101)optocoupler
+4102)eval
+4103)imbue
+4104)justify				
+4105)cast
+4106)rear
+4107)slue
+4108)rack
+4109)dimensional							
+4110)congestion
+4111)closure
+4112)synthesis
+4113)adhere
+4114)stitch							
+4115)handoff
+4116)interim
+4117)strict
+4118)take advantage
+4119)pertinent
+4120)forth				
+4121)streamline
+4122)test bench			
+4123)compliant
+4124)inference
+4125)snoop				
+4126)evidence
+4127)fabric
+4128)tightly
+4129)miscellaneous
+4130)concatenate				
+4131)shave
+4132)forcibly
+4133)shelter
+4134)assessment
+4135)shiver				
+4136)drill
+4137)Sunday
+4138)shout
+4139)Thursday
+4140)shower			
+4141)Wednesday
+4142)shrug
+4143)Friday
+4144)shut
+4145)rigorous			
+4146)veritable
+4147)shy
+4148)fallback
+4149)significance
+4150)sender
+4151)silver
+4152)cut down
+4153)sin			
+4154)enforce
+4155)sincere
+4156)precedence
+4157)singular
+4158)converge
+4159)sip
+4160)arrangement
+4161)skate
+4162)amber
+4163)ski
+4164)pitch
+4165)slam
+4166)particle
+4167)slave
+4168)extensive
+4169)so-called
+4170)sleet
+4171)understood
+4172)sleeve
+4173)hatch
+4174)slide
+4175)braid
+4176)slim			
+4177)get up
+4178)slippers
+4179)try out
+4180)sixteen
+4181)slot
+4182)solely
+4183)sly
+4184)staff			
+4185)smart
+4186)diverse
+4187)smell
+4188)decay
+4189)smoky
+4190)velocity
+4191)smuggler
